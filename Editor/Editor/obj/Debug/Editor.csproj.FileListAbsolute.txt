@@ -1,0 +1,8 @@
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Ress\Code\WalrusCommit\Editor\Editor\obj\Debug\Editor.EditorPane.resources
